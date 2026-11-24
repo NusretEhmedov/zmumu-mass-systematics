@@ -1,0 +1,17 @@
+Events after opposite-charge cut: 9664
+Overall peak: 90.831 +/- 0.031 GeV
+
+Flatness test (chi2 / ndof against a constant):
+  eta mu+:  chi2/ndof = 7.7/4 = 1.93
+  eta mu-:  chi2/ndof = 4.5/4 = 1.11
+  phi mu+:  chi2/ndof = 5.1/5 = 1.01
+  phi mu-:  chi2/ndof = 4.9/5 = 0.97
+  pt  mu+:  chi2/ndof = 27.9/4 = 6.98
+  pt  mu-:  chi2/ndof = 66.0/4 = 16.51
+
+Scale factors derived on half A: {'barrel (|eta|<1.2)': np.float64(0.9993), 'endcap-containing': np.float64(1.0006)}
+
+Test on half B (peak position, GeV):
+  barrel (|eta|<1.2)   before 90.849 +/- 0.060   after 90.748
+  endcap-containing    before 90.736 +/- 0.059   after 90.775
+  spread between regions: before 0.056 GeV, after 0.013 GeV
